@@ -1,2 +1,2 @@
-def parrot(name)
+def parrot(phrase )
   puts ""
